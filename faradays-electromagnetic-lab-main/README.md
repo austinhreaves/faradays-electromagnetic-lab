@@ -1,1 +1,0 @@
-# faradays-electromagnetic-lab
